@@ -1,6 +1,9 @@
 # Strawberry Cheesecake
 Because whoever said you can't have your cake and eat it wasn't a computer scientist.
 
+### TL;DR
+A personalisation extension for improving my use of Chrome.
+
 ### Premise.
 DuckDuckGo is an excellent search tool, however it lacks in certain areas compared to Google search. While it's regular page results are acceptable, its image search is incredibly poor compared to Google Images.
 
