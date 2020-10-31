@@ -1,11 +1,7 @@
-# Strawberry Cheesecake
-Because whoever said you can't have your cake and eat it wasn't a computer scientist.
-
-### TL;DR
-A personalisation extension for improving my use of Chrome.
+# Visual !Bangs
+A convenient visual method for searching with Google from DuckDuckGo.com
 
 ### Premise.
-DuckDuckGo is an excellent search tool, however it lacks in certain areas compared to Google search. While it's regular page results are acceptable, its image search is incredibly poor compared to Google Images.
+DuckDuckGo is an excellent search tool, however it lacks in certain areas compared to Google Search. While it's regular page results are often acceptable, it is sometimes useful to make use of Google's advanced indexing. 
 
-This chrome extension looks to perform a simple task - add an additional button to the 'duckbar' that links to the Google Images search results for that term!
-
+This chrome extension adds two additional buttons to the 'duckbar', which  link to the Google Search and Google Images results for a given query. 
