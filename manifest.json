@@ -1,36 +1,36 @@
 {
-    "name": "Strawberry Cheesecake",
-    "version": "1.0",
-    "description": "Because whoever said you can't have your cake and eat it wasn't a computer scientist.",
+    "name": "Visual !Bangs",
+    "version": "1.1",
+    "description": "A convenient method for accessing Google from DuckDuckGo.",
     "permissions": [
         "activeTab",
         "declarativeContent"
     ],
     "background": {
         "scripts": [
-            "background.js"
+            "data/js/background.js"
         ],
         "persistent": false
     },
     "page_action": {
         "default_popup": "popup.html",
         "default_icon": {
-            "16": "images/icon16.png",
-            "32": "images/icon32.png",
-            "48": "images/icon48.png",
-            "128": "images/icon128.png"
+            "16": "data/img/icon16.png",
+            "32": "data/img/icon32.png",
+            "48": "data/img/icon48.png",
+            "128": "data/img/icon128.png"
         }
     },
     "icons": {
-        "16": "images/icon16.png",
-        "32": "images/icon32.png",
-        "48": "images/icon48.png",
-        "128": "images/icon128.png"
+        "16": "data/img/icon16.png",
+        "32": "data/img/icon32.png",
+        "48": "data/img/icon48.png",
+        "128": "data/img/icon128.png"
     },
     "content_scripts": [
         {
             "js": [
-                "content.js"
+                "data/js/content.js"
             ],
             "matches": [
                 "https://duckduckgo.com/*"
