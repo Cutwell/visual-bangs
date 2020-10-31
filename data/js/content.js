@@ -27,5 +27,5 @@ b_element.href = "https://www.google.com/search?q=" + encodeURIComponent(documen
 li_a_element.appendChild(a_element);
 li_b_element.appendChild(b_element);
 
-document.getElementById("duckbar_static").appendChild(li_a_element);
 document.getElementById("duckbar_static").appendChild(li_b_element);
+document.getElementById("duckbar_static").appendChild(li_a_element);
