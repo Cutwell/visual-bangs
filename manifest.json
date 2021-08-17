@@ -1,28 +1,17 @@
 {
     "name": "Visual !Bangs",
-    "version": "1.1",
+    "version": "1.2",
     "description": "A convenient method for accessing Google from DuckDuckGo.",
     "permissions": [
-        "activeTab",
         "declarativeContent"
     ],
-    "background": {
-        "scripts": [
-            "data/js/background.js"
-        ],
-        "persistent": false
-    },
     "page_action": {
         "default_icon": {
-            "16": "data/img/icon16.png",
-            "32": "data/img/icon32.png",
             "48": "data/img/icon48.png",
             "128": "data/img/icon128.png"
         }
     },
     "icons": {
-        "16": "data/img/icon16.png",
-        "32": "data/img/icon32.png",
         "48": "data/img/icon48.png",
         "128": "data/img/icon128.png"
     },
