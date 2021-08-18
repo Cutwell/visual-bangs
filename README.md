@@ -2,6 +2,11 @@
 
  A convenient visual method for searching with Google from DuckDuckGo.com
 
+| |
+|:---:|
+| ![chrome web store](github/images/chromewebstore_logo.png "chrome web store") |
+| Install visual bangs in the [Chrome Web Store](https://chrome.google.com/webstore/detail/visual-bangs/bgicbfaijceafnnmofklhhdjknakkpke). |
+
 ## About
 | |
 |:---:|
@@ -11,9 +16,6 @@
 DuckDuckGo is an excellent search tool, however it lacks in certain areas compared to Google Search. While it's regular page results are often acceptable, it is sometimes useful to make use of Google's advanced indexing. 
 
 This chrome extension adds two additional buttons to the 'duckbar', which  link to the Google Search and Google Images results for a given query. 
-
-## Chrome web store
-Install visual bangs in the [Chrome Web Store](https://chrome.google.com/webstore/detail/visual-bangs/bgicbfaijceafnnmofklhhdjknakkpke).
 
 ## Manual installation
 1. Clone this repository onto your device.
