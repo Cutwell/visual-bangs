@@ -5,7 +5,7 @@
 ## About
 | |
 |:---:|
-| ![example UI](github/images/duckduckgo_example.PNG "example UI") |
+| ![example UI](github/images/chromewebstore.jpg "example UI") |
 | This extension creates additional UI within DuckDuckGo toolbar, making it easier to view the same search in Google / Google Images. |
 
 DuckDuckGo is an excellent search tool, however it lacks in certain areas compared to Google Search. While it's regular page results are often acceptable, it is sometimes useful to make use of Google's advanced indexing. 
