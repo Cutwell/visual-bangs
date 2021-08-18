@@ -12,7 +12,10 @@ DuckDuckGo is an excellent search tool, however it lacks in certain areas compar
 
 This chrome extension adds two additional buttons to the 'duckbar', which  link to the Google Search and Google Images results for a given query. 
 
-## Installation
+## Chrome web store
+Install visual bangs in the [Chrome Web Store](https://chrome.google.com/webstore/detail/visual-bangs/bgicbfaijceafnnmofklhhdjknakkpke).
+
+## Manual installation
 1. Clone this repository onto your device.
 2. Navigate to `chrome://extensions/` (replace `chrome` with the name of your Chromium based browser, for instance `opera://extensions/`).
 3. Open the file explorer using `Load unpacked` and navigate to the root folder of this repository. 
