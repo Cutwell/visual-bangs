@@ -1,10 +1,7 @@
 {
     "name": "Visual !Bangs",
-    "version": "1.2",
+    "version": "1.3",
     "description": "A convenient method for accessing Google from DuckDuckGo.",
-    "permissions": [
-        "declarativeContent"
-    ],
     "page_action": {
         "default_icon": {
             "48": "data/img/icon48.png",
@@ -20,10 +17,13 @@
             "js": [
                 "data/js/content.js"
             ],
+            "css": [
+                "data/css/extension.css"
+            ],
             "matches": [
                 "https://duckduckgo.com/*"
             ]
         }
     ],
-    "manifest_version": 2
+    "manifest_version": 3
 }
