@@ -2,6 +2,8 @@
 
  A convenient visual method for searching with Google from DuckDuckGo.com
 
+![manifest shield](https://img.shields.io/badge/Chrome%20Manifest-v3-blue, "manifest shield")
+
 | |
 |:---:|
 | ![chrome web store](github/images/chromewebstore_logo.png "chrome web store") |
